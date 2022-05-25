@@ -1,1 +1,2 @@
-# Project3_Group2
+# UMN Fintech - Project 3 Group 2
+## AGRO Token & Farming DAO
