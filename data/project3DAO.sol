@@ -1,12 +1,11 @@
 pragma solidity ^0.5.2;
 
-/**
-* DAO contract:
+/* DAO contract:
 * Collects investors money (ether) and allocate shares
 * Keep track of investor contributions with shares
 * Allow investors to transfer shares
 * Allow investment proposals to be created and voted
-* Execute successful investment proposals (i.e. send money)
+* Execute successful investment proposals
 */
 
 contract DAO {
@@ -44,6 +43,7 @@ contract DAO {
         admin = msg.sender;
         }
 
+    // contributions
     function contribute() payable external {
         require(now < contributionEnd, 'cannot contribute after contributionEnd');
         investors[msg.sender] = true;
@@ -52,6 +52,7 @@ contract DAO {
         availableFunds += msg.value;
     }
 
+    // redeem shares
     function redeemShare(uint amount) external {
         require(shares[msg.sender] >= amount, 'not enough shares');
         require(availableFunds >= amount, 'not enough available funds');
@@ -60,6 +61,7 @@ contract DAO {
         msg.sender.transfer(amount);
     }
 
+    // transfer shares
     function transferShare(uint amount,address to) external {
         require(shares[msg.sender] >= amount, 'not enough shares');
         shares[msg.sender] -= amount;
@@ -67,6 +69,7 @@ contract DAO {
         investors[to] = true;
     }
 
+    // create proposal
     function createProposal(
         string memory name,
         uint amount,
@@ -87,6 +90,7 @@ contract DAO {
         nextProposalId++;
         }
 
+    // voting
     function vote(uint proposalId) external onlyInvestors() {
         Proposal storage proposal = proposals[proposalId];
         require(votes[msg.sender][proposalId] == false, 'investor can only vote once for a proposal');
@@ -95,6 +99,8 @@ contract DAO {
         proposal.votes += shares[msg.sender];
     }
 
+
+    // execute the proposal
     function executeProposal(uint proposalId) external onlyAdmin() {
         Proposal storage proposal = proposals[proposalId];
         require(now >= proposal.end, 'cannot execute proposal before end date');
@@ -103,17 +109,19 @@ contract DAO {
         _transferEther(proposal.amount, proposal.recipient);
     }
 
+    // withdraw function
     function withdrawEther(uint amount, address payable to) external onlyAdmin() {
         _transferEther(amount, to);
     }
 
+    // transfer function
     function _transferEther(uint amount, address payable to) internal {
         require(amount <= availableFunds, 'not enough availableFunds');
         availableFunds -= amount;
         to.transfer(amount);
     }
 
-    //For ether returns of proposal investments
+    //For ether returns of proposal investments; only investors and only admin:
     function() payable external {
         availableFunds += msg.value;
     }
