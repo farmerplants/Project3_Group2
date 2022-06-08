@@ -5,3 +5,6 @@
 
 ## AGRO Token Contract Deployment:
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.29.46%20PM.png?raw=true)
+
+## AgroDAO Contract Deployment:
+![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.51.59%20PM.png?raw=true)
