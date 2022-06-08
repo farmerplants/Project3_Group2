@@ -1,8 +1,11 @@
-# UMN Fintech - Project 3 Group 2
+# AGRO Token & AgroDAO
 ## Tyler Hubbard and Wilson Quizhpi
-## AGRO Token & Agro DAO
+## UMN Fintech -- Group 2, Project 3
 
-### We will be creating a DAO and token system to benefit the education of farmers globally. In our MVP we aim to implement a "learn to earn" model structure for users to better understand various aspects about farming and the different commodities related to farming, a DAO for farmers to make various governance decisions and engage in community outreach, and a token system (AGRO token) built to suit this ecosystem.
+### We will be creating a DAO and token system to benefit the education of farmers globally. The economy of most countries relies on agriculture, especially in developing countries. A DAO governed by farmers would add a much-needed layer of decentralization to the agricultural sector. Proposals and community outreach organized through a DAO could ultimately lead to greater farming network for trade and education, which could, in turn, affect a country’s GDP.
+
+### We created an ERC1155 multi-token contract -- AGRO -- which is fungibility-agnostic and gas-efficient targeted at the global farming community. Additionally, we created a DAO for those farmers to have a governance structure with proposals and voting protocols.
+
 
 <!-- vscode-markdown-toc -->
 * 1. [GDP](#GDP)
@@ -59,8 +62,7 @@ individual FT	 | individual NFT  | Combine FT & NFT
 True decentralize|True decentralize | server Dependent
 Gas Fees every deployment  |Gas Fees every deployment| Maximize Gas Fees
 
-## GDP
-GDP = C + I + G + (X-M)
+	 
 ## AGRO Token
 </head>
 <body>
