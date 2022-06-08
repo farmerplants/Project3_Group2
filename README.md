@@ -59,7 +59,7 @@ Gas Fees every deployment  |Gas Fees every deployment| Maximize Gas Fees
 
 ## GDP
 GDP = C + I + G + (X-M)
-## Agro Token
+## AGRO Token
 </head>
 <body>
     <div>
@@ -71,7 +71,7 @@ GDP = C + I + G + (X-M)
 
 
 
-## AGRO Token Contract Deployment:
+### AGRO Token Contract Deployment:
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.29.46%20PM.png?raw=true)
 ## Piñata
 <img width="800" height="200" src="images/pinata.jpg">
