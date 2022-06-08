@@ -81,3 +81,31 @@ GDP = C + I + G + (X-M)
 ## AgroDAO Contract Deployment:
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.51.59%20PM.png?raw=true)
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.54.44%20PM.png?raw=true)
+
+### Reasourse used:
+* https://github.com/HashLips/hashlips_nft_contract/blob/main/contract/SimpleNftErc1155.sol
+* https://www.pinata.cloud
+* https://opensea.io
+* https://nft-generator.art/app
+* https://youtu.be/cLB7u0KQFIs
+* https://youtu.be/RWUvhSliInI
+* https://www.youtube.com/watch?v=ngxWWS3Qr3Q
+* https://youtu.be/WZWCzsB1xUE
+* https://youtu.be/zpUFgigSkMY
+* https://youtu.be/qIJsvKIuzIc
+* https://youtu.be/M37KxPoa7HU
+* https://youtu.be/XDGDtVJTqZ8
+* https://youtu.be/Wu436_IwWmo
+* https://youtu.be/XNWd8Nl3rhA
+* https://youtu.be/OQRByaENqOA
+* https://youtu.be/QFYU81zM_jA
+* https://datacommons.org/place/country/GTM?utm_medium=explore&mprop=amount&popt=EconomicActivity&cpv=activitySource%2CGrossDomesticProduction&hl=en
+* https://www.devex.com/news/opinion-investing-in-farmers-is-key-to-guatemala-s-pandemic-recovery-101647
+* https://fredblog.stlouisfed.org/2018/09/do-imports-subtract-from-gdp/
+* https://oec.world/en/visualize/tree_map/hs92/export/gtm/all/show/2020/
+* https://www.cia.gov/the-world-factbook/countries/guatemala/#economy
+* https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=GT-ZJ
+* https://oec.world/en/profile/country/gtm
+
+
+
