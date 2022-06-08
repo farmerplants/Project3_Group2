@@ -4,28 +4,27 @@
 ### We will be creating a DAO and token system to benefit the education of farmers globally. In our MVP we aim to implement a "learn to earn" model structure for users to better understand various aspects about farming and the different commodities related to farming, a DAO for farmers to make various governance decisions and engage in community outreach, and a token system (AGRO token) built to suit this ecosystem.
 
 <!-- vscode-markdown-toc -->
-* 1. [by Tyler Hubbard, Wilson Quizhpi](#byTylerHubbardErinRahmanWilsonQuizhpi)
-* 2. [GDP](#GDP)
-* 3. [Agricultural products](#Agriculturalproducts)
-  * 3.1. [Labor force - by occupation](#Laborforce-byoccupation)
+* 1. [GDP](#GDP)
+* 2. [Agricultural products](#Agriculturalproducts)
+  * 2.1. [Labor force - by occupation](#Laborforce-byoccupation)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-# Guatemala infrastructure and education problem in the agriculture sector
+## Guatemala infrastructure and the education problem in the agriculture sector
    
-##  2. <a name='GDP'></a>GDP
+###  1. <a name='GDP'></a>GDP
 $77.6 billion USD (2020)
   <p align="center">
 <img width="500" height="200" src="images/GDP.png">
   
-  ###  3.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation      
+  ####  1.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation      
  <p align="center">
 <img width="300"  src="images/laborForce.png">
 
-### 3.2. Agriculture: 31.4%
+#### 1.2. Agriculture: 31.4%
   
  <p align="center">
 <img width="300"  src="images/gdp_sector.png">
@@ -34,7 +33,7 @@ $77.6 billion USD (2020)
 
 
          
-##  3. <a name='Agriculturalproducts'></a>Agricultural products
+##  2. <a name='Agriculturalproducts'></a>Agricultural products
 
 ## Tables
 Products | Product Category | Export in Billions
