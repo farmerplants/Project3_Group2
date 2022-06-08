@@ -13,7 +13,7 @@
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-## Guatemala infrastructure and the education problem in the agriculture sector
+## Guatemalan infrastructure and the education problem in the agriculture sector
    
 ###  1. <a name='GDP'></a>GDP
 $77.6 billion USD (2020)
