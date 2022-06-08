@@ -1,8 +1,8 @@
 <!-- vscode-markdown-toc -->
-* 1. [by Tyler Hubbard, Wilson Quizhpi](#byTylerHubbardErinRahmanWilsonQuizhpi)
+* 1. [by Tyler Hubbard, Erin Rahman, Wilson Quizhpi](#byTylerHubbardErinRahmanWilsonQuizhpi)
 * 2. [GDP](#GDP)
 * 3. [Agricultural products](#Agriculturalproducts)
-  * 3.1. [Labor force - by occupation](#Laborforce-byoccupation)
+	* 3.1. [Labor force - by occupation](#Laborforce-byoccupation)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -11,7 +11,21 @@
 <!-- /vscode-markdown-toc -->
 # Guatemala infrastructure and education problem in the agriculture sector
 
-##  1. <a name='byTylerHubbardErinRahmanWilsonQuizhpi'></a>by Tyler Hubbard, Wilson Quizhpi       
+##  1. <a name='byTylerHubbardErinRahmanWilsonQuizhpi'></a>by Tyler Hubbard, Erin Rahman, Wilson Quizhpi
+
+<p align="center">
+    <img width="800" height="200" src="images/guatemala.jpg">
+         </p>
+</head>
+<body>
+    <div>
+        <p align="center">
+<img width="200" height="100" src="images/farming.jpg"><img width="200" height="100" src="images/farmingmoun.png"><img width="200" height="100" src="images/womanfarming.jpg"><img width="200" height="100" src="images/womanspr.jpg">
+        </p>
+        
+
+
+        
 ##  2. <a name='GDP'></a>GDP
 $77.6 billion USD (2020)
   <p align="center">
@@ -46,34 +60,20 @@ Knit Men's Shirts | Textiles | 0.274
 Packaged Medicaments | Chemical Products |0.258
 Knit Women's Shirts|Textiles	 | 0.226
 	                                        
-                                          
+                                            
+## Tables 
 ## Tables
-ERC20 | ERC721 | ERC71155
+Products | Product Category | Export in Billions
 ---| ---| ---|
-individual FT	 | individual NFT  | Combine FT & NFT
-True decentralize|True decentralize | server Dependent
-Gas Fees every deployment  |Gas Fees every deployment| Maximize Gas Fees
-
-## GDP
-GDP = C + I + G + (X-M)
-## Agro Token
-</head>
-<body>
-    <div>
-        <p align="center">
-<img width="400" height="200" src="images/token1.jpg"><img width="400" height="200" src="images/token2.jpg">
-        </p>
-
-## Contract Deployment
-</head>
-<body>
-    <div>
-        <p align="center">
-<img width="400" height="200" src="images/agro1.jpg"><img width="400" height="200" src="images/agro2.jpg">
-        </p>
-
-## Piñata
-<img width="800" height="200" src="images/pinata.jpg">
-
+Bananas	 | Vegetable Products | 1.15
+Nutmeg, mace and cardamons | Vegetable Products | 1.14
+Coffee |Vegetable Products | 0.684
+Raw Sugar| Food stuffs | 0.598
+Palm Oil| Animal and Vegetable Bi-Products| 0.466
+Ferroalloys	 | Metals | 0.318
+Knit Sweaters | Textiles	 | 0.292
+Knit Men's Shirts | Textiles | 0.274
+Packaged Medicaments | Chemical Products |0.258
+Knit Women's Shirts|Textiles	 | 0.226
 
 
