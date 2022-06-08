@@ -1,12 +1,21 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.5.2;
 
 /* DAO contract:
-* Collects investors money (ether) and allocate shares
-* Keep track of investor contributions with shares
-* Allow investors to transfer shares
-* Allow investment proposals to be created and voted
+* Collects investors money (ether) and allocates shares
+* Keeps track of investor contributions with shares
+* Allows investors to transfer shares
+* Allows investment proposals to be created and voted on
 * Execute successful investment proposals
+* Withdraw and transfer functions
 */
+
+/* Importing ERC1155:
+* Allows for contract to receieve ERC1155 Tokens like AGRO
+* Pulls from 5 other contracts
+*/
+
+import "./ERC1155.sol";
 
 contract DAO {
     struct Proposal {
