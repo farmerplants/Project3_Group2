@@ -4,7 +4,7 @@
 
 ### We will be creating a DAO and token system to benefit the education of farmers globally. The economy of most countries relies on agriculture, especially in developing countries. A DAO governed by farmers would add a much-needed layer of decentralization to the agricultural sector. Proposals and community outreach organized through a DAO could ultimately lead to greater farming network for trade and education, which could, in turn, affect a country’s GDP.
 
-### We created an ERC1155 multi-token contract -- AGRO -- which is fungibility-agnostic and gas-efficient targeted at the global farming community. Additionally, we created a DAO for those farmers to have a governance structure with proposals and voting protocols.
+### We created an ERC1155 multi-token contract -- [AGRO](https://github.com/farmerplants/Project3_Group2/blob/main/data/AGRO_ERC1155.sol) -- which is fungibility-agnostic and gas-efficient targeted at the global farming community. Additionally, we created [AgroDAO](https://github.com/farmerplants/Project3_Group2/blob/main/data/AgroDAO.sol) for those farmers to have a governance structure with proposals and voting protocols.
 
 
 <!-- vscode-markdown-toc -->
@@ -83,9 +83,12 @@ Gas Fees every deployment  |Gas Fees every deployment| Maximize Gas Fees
 ## AgroDAO Contract Deployment:
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.51.59%20PM.png?raw=true)
 ![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-07%20at%2011.54.44%20PM.png?raw=true)
+![](https://github.com/farmerplants/Project3_Group2/blob/main/images/Screen%20Shot%202022-06-08%20at%202.45.42%20PM.png?raw=true)
 
-### Reasourse used:
+### Resources used:
 * https://github.com/HashLips/hashlips_nft_contract/blob/main/contract/SimpleNftErc1155.sol
+* https://github.com/enjin/erc-1155/tree/master/contracts
+* https://docs.openzeppelin.com/contracts/4.x/api/token/erc1155#ERC1155
 * https://www.pinata.cloud
 * https://opensea.io
 * https://nft-generator.art/app
