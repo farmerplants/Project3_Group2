@@ -51,7 +51,7 @@ Knit Women's Shirts|Textiles	 | 0.226
 	                                        
                                           
 ## Tables
-ERC20 | ERC721 | ERC71155
+ERC20 | ERC721 | ERC1155
 ---| ---| ---|
 individual FT	 | individual NFT  | Combine FT & NFT
 True decentralize|True decentralize | server Dependent
