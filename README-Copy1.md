@@ -1,35 +1,25 @@
+# Guatemala infrastructure and education problem in the agriculture sector
 <!-- vscode-markdown-toc -->
 * 1. [by Tyler Hubbard, Wilson Quizhpi](#byTylerHubbardErinRahmanWilsonQuizhpi)
 * 2. [GDP](#GDP)
 * 3. [Agricultural products](#Agriculturalproducts)
-  * 3.1. [Labor force - by occupation](#Laborforce-byoccupation)
+* 4. [Labor force - by occupation](#Laborforce-byoccupation)
 
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
-# Guatemala infrastructure and education problem in the agriculture sector
-
-##  1. <a name='byTylerHubbardErinRahmanWilsonQuizhpi'></a>by Tyler Hubbard, Wilson Quizhpi       
-##  2. <a name='GDP'></a>GDP
+      
+##  2. <a name='GDP'></a>GDP (GDP = C + I + G + (X-M))
 $77.6 billion USD (2020)
   <p align="center">
 <img width="500" height="200" src="images/GDP.png">
   
-  ###  3.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation      
+  ###  3.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation (31.4)     
  <p align="center">
 <img width="300"  src="images/laborForce.png">
 
-### 3.2. Agriculture: 31.4%
+### 3.2. Agriculture GDP (13.3%)
   
  <p align="center">
 <img width="300"  src="images/gdp_sector.png">
-   
-
-
-
-         
+            
 ##  3. <a name='Agriculturalproducts'></a>Agricultural products
 
 ## Tables
@@ -55,7 +45,7 @@ True decentralize|True decentralize | server Dependent
 Gas Fees every deployment  |Gas Fees every deployment| Maximize Gas Fees
 
 ## GDP
-GDP = C + I + G + (X-M)
+
 ## Agro Token
 </head>
 <body>
@@ -73,7 +63,9 @@ GDP = C + I + G + (X-M)
         </p>
 
 ## Piñata
+<p align="center">
 <img width="800" height="200" src="images/pinata.jpg">
+
 
 
 
