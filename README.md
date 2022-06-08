@@ -17,15 +17,16 @@
 ## Guatemalan infrastructure and the education problem in the agriculture sector
    
 ###  1. <a name='GDP'></a>GDP
+### (GDP = C + I + G + (X-M))
 $77.6 billion USD (2020)
   <p align="center">
 <img width="500" height="200" src="images/GDP.png">
   
-  ####  1.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation      
+  ####  1.1. <a name='Laborforce-byoccupation'></a>Labor force - by occupation  (31.4%)    
  <p align="center">
 <img width="300"  src="images/laborForce.png">
 
-#### 1.2. Agriculture: 31.4%
+#### 1.2. Agriculture: (13.3%)
   
  <p align="center">
 <img width="300"  src="images/gdp_sector.png">
